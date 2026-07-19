@@ -6,6 +6,13 @@ Download the model it uses at :
 
 [Aluode/SplatFaceDataset](https://huggingface.co/Aluode/SplatFaceDataset/tree/main)
 
+The model was trained only for 2 epochs and made with celeba face image dataset that has about 200k images. 
+The image is only 31 megs. 
+
+The trainer and original github repo is at: 
+
+https://github.com/anttiluode/ArtificialCortex/tree/main/the_splat 
+
 **PerceptionLab / Antti Luode (Helsinki), with several AI collaborators. 2026.**
 
 > Do not hype. Do not lie. Just show.
