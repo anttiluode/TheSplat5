@@ -292,13 +292,13 @@ slop. Ground truth exists, so the loop can be scored. `--selftest` prints:
 pip install torch numpy pillow          # opencv-python only for --webcam; tkinter ships with Python
 
 # 1) SEE the cascade the field learned (do this first):
-python the_splatV5.py --model "face model trained 2 epochs/model.pt" --diagnostic
+python the_splatV5.py --model model.pt --diagnostic
 
 # 2) the falsifiable scorecard (run [E] on your GPU):
 python the_splatV5.py --selftest
 
 # 3) live cortex on your webcam:
-python the_splatV5.py --model "face model trained 2 epochs/model.pt" --webcam
+python the_splatV5.py --model model.pt --webcam
 
 # options:
 python the_splatV5.py --octaves 3 ...   # band count (default 4)
