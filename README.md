@@ -120,6 +120,8 @@ unchanged so trained checkpoints load `strict=True`.
 
 ## 4. The afferent — sparse Lucas-Kanade flow
 
+![pic2](octave_diagnostics.png)
+
 The cortex reads **where tracked things went**, not their colour.
 
 - **`LKFlow`** — torch-native sparse Lucas-Kanade (no OpenCV needed for the core).
