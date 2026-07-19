@@ -1,5 +1,9 @@
 # the_splat — a live predictive cortex on a Gabor-splat manifold
 
+Download the model it uses at : 
+
+[Aluode/SplatFaceDataset](https://huggingface.co/Aluode/SplatFaceDataset/tree/main)
+
 **PerceptionLab / Antti Luode (Helsinki), with several AI collaborators. 2026.**
 
 > Do not hype. Do not lie. Just show.
