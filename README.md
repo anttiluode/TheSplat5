@@ -1,5 +1,7 @@
 # the_splat — a live predictive cortex on a Gabor-splat manifold
 
+![pic](image.png)
+
 Download the model it uses at : 
 
 [Aluode/SplatFaceDataset](https://huggingface.co/Aluode/SplatFaceDataset/tree/main)
