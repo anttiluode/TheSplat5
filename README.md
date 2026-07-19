@@ -120,7 +120,7 @@ unchanged so trained checkpoints load `strict=True`.
 
 ## 4. The afferent — sparse Lucas-Kanade flow
 
-![pic2](octave_diagnostics.png)
+![pic2](octave_diagnostic.png)
 
 The cortex reads **where tracked things went**, not their colour.
 
